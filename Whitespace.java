@@ -1,5 +1,5 @@
                                                                                 /*
-By dark we toll in the depths                                                   ,
+By dark we toil in the depths                                                   ,
 and in day we dare not show ourselves                                           ,
 for we are a legion of desparates                                               ,
 and the world cast us aside                                                     .
@@ -8,7 +8,7 @@ my brethren                                                                     
 Bear the cross of the mighty one                                                ,
 and be not afraid of condemnation                                               .
 Those who mocked our ways have risen                                            ;
-it is our time to inhabit the desolate land                                     !
+it is time to inhabit the desolate land                                         !
                                                                                 */
 class Whitespace                                                                {   
                 static int f                                                    (
